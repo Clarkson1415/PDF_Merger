@@ -1,3 +1,3 @@
 # Pdf merger tool
 runs on windows
-download the exe: https://github.com/Clarkson1415/PDF_Merger/pdfmerger.exe)
+download the exe: [https://github.com/Clarkson1415/PDF_Merger/pdfmerger.exe](https://github.com/Clarkson1415/PDF_Merger/blob/main/pdfmerger.exe)
